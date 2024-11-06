@@ -1,0 +1,23 @@
+{
+    "enumCount": 1,
+    "enums": {
+        "YTsuzaki\\PhpEnumSpyExample\\ExampleEnum": {
+            "className": "ExampleEnum",
+            "namespace": "YTsuzaki\\PhpEnumSpyExample",
+            "fully_qualified_class_name": "YTsuzaki\\PhpEnumSpyExample\\ExampleEnum",
+            "filePath": "/Users/y-tsuzaki/work/php-enum-spy-example/src/ExampleEnum.php",
+            "cases": {
+                "IN_PROGRESS": {
+                    "name": "IN_PROGRESS",
+                    "value": "in_progress",
+                    "displayName": "進行中"
+                },
+                "PUNIRU": {
+                    "name": "PUNIRU",
+                    "value": "puniru_is_cute_slime",
+                    "displayName": "ぷにるはかわいいスライム"
+                }
+            }
+        }
+    }
+}
