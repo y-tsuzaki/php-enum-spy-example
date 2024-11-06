@@ -2,6 +2,8 @@
 
 Example repository for y-tsuzaki/php-enum-spy
 
+https://github.com/y-tsuzaki/php-enum-spy
+
 # Usage
 
 ```bash
