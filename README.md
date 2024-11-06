@@ -4,9 +4,9 @@ Example for y-tsuzaki/php-enum-spy
 
 # Usage
 
-```
+```bash
 composer intall
 ```
-```
-vender/bin/php-enum-py
+```bash
+vendor/bin/php-enum-spy
 ```
